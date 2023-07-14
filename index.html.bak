@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <title>Text Analyzer</title>
+
+</head>
+<body>
+
+    <div class="text-wrapper">
+        <textarea  id="text" spellcheck="false" cols="150" rows="20"></textarea>
+    
+
+	<h2>Welcome to Ubuntu Instance doing vwrry well practice
+		Pracice makes you perfect</h2>
+    <button type="button"  onclick="setText()">Genrate Data</button>
+</div>
+
+
+   <script src="JS/text-info.js"></script> 
+</body>
+</html>
